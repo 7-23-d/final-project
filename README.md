@@ -16,5 +16,5 @@ PRODUCTION
 3. Signup for a free Heroku account at https://www.heroku.com
 4. Create a new Heroku app inside the dashboard
 5. Once created, select the Github integration option
-6. After you've connected to Github, you'll need to select the repo you are connecting to (group-project)
+6. After you've connected to Github, you'll need to select the repo you are connecting to (final-project)
 7. Once it has been selected, scroll down to Manual Deploy and click the Deploy button
