@@ -1,4 +1,4 @@
-# group-project
+# final-project
 
 DEVELOPMENT
 * Open 2 CLI windows, 1 for your server & 1 for your client
